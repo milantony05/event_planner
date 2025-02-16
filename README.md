@@ -6,7 +6,7 @@ EventPlanner is a simple landing page for an organization that plans personal an
 
 ## Demo
 
-Live demo: [Event Planner](https://milantony05.github.io/event_planner/).
+Live demo: [Event Planner](https://milantony05.github.io/event_planner/)
 
 ## Installation
 
