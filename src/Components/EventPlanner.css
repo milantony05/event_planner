@@ -4,10 +4,10 @@
     margin: 0 auto;
     padding: 20px;
     text-align: center;
-    background: linear-gradient(135deg, #fee6f0 25%, transparent 25%) -50px 0,
-                linear-gradient(225deg, #fee6f0 25%, transparent 25%) -50px 0,
-                linear-gradient(315deg, #fee6f0 25%, transparent 25%),
-                linear-gradient(45deg, #fee6f0 25%, transparent 25%);
+    background: linear-gradient(135deg, #a8c0ff 25%, transparent 50%) -50px 0,
+                linear-gradient(225deg, #a8c0ff 25%, transparent 50%) -50px 0,
+                linear-gradient(315deg, #a8c0ff 25%, transparent 50%),
+                linear-gradient(45deg, #a8c0ff 25%, transparent 50%);
     background-size: 100px 100px; /* Adjust the size based on the pattern */
   }
   
@@ -22,7 +22,7 @@
   }
   
   .get-started-button {
-    background-color: #f85199;
+    background-color: #5c6bc0;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -32,7 +32,7 @@
   }
   
   .get-started-button:hover {
-    background-color: #d32b74;
+    background-color: #3f51b5;
   }
   
   .features,
@@ -89,7 +89,7 @@
   }
   
   .submit-button {
-    background-color: #f85199;
+    background-color: #5c6bc0;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -99,7 +99,7 @@
   }
   
   .submit-button:hover {
-    background-color: #d32b74;
+    background-color: #3f51b5;
   }
   
   footer {
@@ -123,7 +123,7 @@
     /* padding: 0 10px; */
 }
   .events_categories ul h2{
-    background-color: #e46a9d;
+    background-color: #3f51b5;
     text-align: center;
     padding: 5px 10px;
     color: white;
